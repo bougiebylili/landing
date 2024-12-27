@@ -49,7 +49,8 @@ document.ready(function() {
                 pageId:'skills',
                 anchor: "Skills",
                 templateUrl: "./views/skills.html",
-                backgroundColor: "#fec401"
+                backgroundColor: "#fec401",
+                background-image: url("./candlebg.jpg")
             },
             {
                 pageId:'projects',
