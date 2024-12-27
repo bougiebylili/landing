@@ -50,7 +50,6 @@ document.ready(function() {
                 anchor: "Skills",
                 templateUrl: "./views/skills.html",
                 backgroundColor: "#fec401",
-                background-image: url("./candlebg.jpg")
             },
             {
                 pageId:'projects',
