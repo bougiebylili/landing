@@ -32,7 +32,7 @@ var sitePage;
 document.ready(function() {
 
     sitePage = new SitePage("sitePage", {
-        brandName: "SitePage",
+        brandName: "Bougie by Lili",
         backgroundColor: "",
         verticalAlignMiddle: true, //true||false
         autoScrolling:true,
