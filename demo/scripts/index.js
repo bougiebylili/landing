@@ -44,11 +44,6 @@ document.ready(function() {
                 backgroundColor: "#ff5f45",
                 verticalAlignMiddle: true, //true||false
                 sectionClass: 'text-right',
-                background-image: url("./candlebg.jpg"),
-                height: 100%,
-                background-position: center,
-                background-repeat: no-repeat,
-                background-size: cover
             },
             {
                 pageId:'skills',
